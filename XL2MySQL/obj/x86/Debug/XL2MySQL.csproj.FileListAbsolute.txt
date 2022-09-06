@@ -1,0 +1,11 @@
+c:\projects\XL2MySQL\XL2MySQL\XL2MySQL\bin\Debug\XL2MySQL.exe.config
+c:\projects\XL2MySQL\XL2MySQL\XL2MySQL\bin\Debug\XL2MySQL.exe
+c:\projects\XL2MySQL\XL2MySQL\XL2MySQL\bin\Debug\XL2MySQL.pdb
+c:\projects\XL2MySQL\XL2MySQL\XL2MySQL\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\projects\XL2MySQL\XL2MySQL\XL2MySQL\obj\x86\Debug\XL2MySQL.csproj.ResolveComReference.cache
+c:\projects\XL2MySQL\XL2MySQL\XL2MySQL\obj\x86\Debug\XL2MySQL.Form1.resources
+c:\projects\XL2MySQL\XL2MySQL\XL2MySQL\obj\x86\Debug\XL2MySQL.Properties.Resources.resources
+c:\projects\XL2MySQL\XL2MySQL\XL2MySQL\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\projects\XL2MySQL\XL2MySQL\XL2MySQL\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\projects\XL2MySQL\XL2MySQL\XL2MySQL\obj\x86\Debug\XL2MySQL.exe
+c:\projects\XL2MySQL\XL2MySQL\XL2MySQL\obj\x86\Debug\XL2MySQL.pdb
